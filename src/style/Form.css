@@ -1,0 +1,37 @@
+.formInput {
+    display: block;
+    margin: 50px auto 0;
+    width: 281px;
+    height: 26px;
+    border-radius: 5px;
+    border: none;
+    color: #000;
+    font-size: 18px;
+    padding-left: 7px;
+    background-color: #fff;
+}
+
+.formButton {
+    display: block;
+    margin: 15px auto 0;
+    width: 288px;
+    height: 49px;
+    border-radius: 5px;
+    border: none;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.formButton:hover {
+    background-color: rgb(202, 201, 201);
+}
+
+
+.form hr {
+    width: 335px;
+    border: none;
+    height: 1px;
+    background-color: #fff;
+    margin-top: 15px;
+    margin-bottom: 0;
+}

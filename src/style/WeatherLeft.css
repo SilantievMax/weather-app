@@ -1,0 +1,25 @@
+.weatherLeft {
+    color: #fff;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.weatherLeft h2 {
+    font-weight: 400;
+    font-size: 22px;
+    margin-top  : 50px;
+    margin-bottom: 0px;
+}
+
+.weatherLeft .temp {
+    margin-top: 20px;
+    margin-bottom: 0px;
+    font-size: 134px;
+
+}
+
+.weatherLeft .weather {
+    font-size: 19px;
+    font-weight: 400;
+    margin-top: 20px;
+}
