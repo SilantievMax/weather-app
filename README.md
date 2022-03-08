@@ -1,6 +1,6 @@
-﻿##Application on React JS "Learn Pogue in any city"
+﻿## Application on React JS "Learn Pogue in any city"
 ___
-#####To run, run the following commands
+##### To run, run the following commands
 ```
 git clone https://github.com/SilantievMax/weather-app.git
 cd weather-app
