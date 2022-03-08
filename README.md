@@ -8,6 +8,7 @@ npm install
 npm start
 ```
 In this application, you can find out the weather in any city.
+
 <img src="img/weather1.png" alt="weather" width="300"/>
 <img src="img/weather2.png" alt="weather" width="300"/>
 <img src="img/weather3.png" alt="weather" width="300"/>
@@ -15,6 +16,7 @@ In this application, you can find out the weather in any city.
 ![weather](img/weather2.png)
 ![weather](img/weather3.png) -->
 Data that can be found:
+
 - Temperature
 - Pressure
 - Humidity
