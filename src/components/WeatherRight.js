@@ -1,6 +1,6 @@
 import React from "react";
 
-import '../style/WeatherRight.css'
+import './WeatherRight.css'
 
 const WeatherRight = (props) => {
     return (
